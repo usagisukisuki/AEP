@@ -9,8 +9,12 @@ In this repository, we have prepared the iRPE cell image dataset and the code of
 ## Preparation for dataset
 
 ## Training
+If you prepared the dataset, you can directly run the following codes to train the model.
 
 ## Testing
+We have prepared the pre-trained models for both datasets in the folder 'pretrained'. 
+To replicate the results in the paper, directly run the following commands.
+
 
 ## Citation
 ```
