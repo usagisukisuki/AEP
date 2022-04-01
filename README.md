@@ -11,3 +11,17 @@ In this repository, we have prepared the iRPE cell image dataset and the code of
 ## Training
 
 ## Testing
+
+## Citation
+@INPROCEEDINGS{9658801,
+  author={Kato, Sota and Hotta, Kazuhiro},
+  booktitle={2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, 
+  title={Automatic Preprocessing and Ensemble Learning for Cell Segmentation with Low Quality}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1836-1841},
+  doi={10.1109/SMC52423.2021.9658801}}
+  
+## Acknowledgements
+This work was partially supported by KIOXIA Corporation.
