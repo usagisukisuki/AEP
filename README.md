@@ -10,10 +10,15 @@ In this repository, we have prepared the iRPE cell image dataset and the code of
 
 ## Training
 If you prepared the dataset, you can directly run the following codes to train the model.
+```
+sh train.sh
+```
 
 ## Testing
 If you generated the pretrain model, you can run the following codes to evaluate the model.
-
+```
+sh teset.sh
+```
 
 ## Citation
 ```
