@@ -8,6 +8,9 @@ In this repository, we have prepared the iRPE cell image dataset and the code of
 
 ## Preparation for iRPE dataset
 Download our google drive [[Drive]](https://drive.google.com/file/d/1CxxLRN1QUsZID85L1lAv3GnYWRauiYBW/view?usp=sharing)
+```
+sudo xz -dc Dataset.tar.xz | tar xfv -
+```
 
 ## Training
 If you prepared the dataset, you can directly run the following codes to train the model.
